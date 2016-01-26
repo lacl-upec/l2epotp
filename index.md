@@ -8,6 +8,6 @@ Page du cours d'éléments de programmation objet
 
 {% for post in site.posts reversed %}
 
-- [{{ post.title }}](/m2jca{{ post.url}})
+- [{{ post.title }}](/l2epotp{{ post.url}})
 
 {% endfor %}
